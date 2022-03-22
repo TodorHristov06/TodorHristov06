@@ -39,7 +39,7 @@ I'm studying in PGEE, Burgas  15yo. New in programming.
 - ⚡ Fun fact: Grapes light on fire in the microwave.  
   
 
-![TW](https://media.discordapp.net/attachments/776379005603414036/902600525030260736/RDT_20211026_1251486077555446502367955.gif)  
+<img src="https://media.discordapp.net/attachments/776379005603414036/902600525030260736/RDT_20211026_1251486077555446502367955.gif" align="left" height="650" width="" />  
 
 
 
