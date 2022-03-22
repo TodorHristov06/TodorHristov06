@@ -1,4 +1,4 @@
-### Hey 👋, I'm Todor!  
+## Hey 👋, I'm Todor!  
   
 
 <a href="https://github.com/TodorHristov06" target="_blank">
@@ -25,7 +25,7 @@ I'm studying in PGEE, Burgas  15yo. New in programming.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on learning new languages and Loading....  
   
@@ -39,17 +39,15 @@ I'm studying in PGEE, Burgas  15yo. New in programming.
 - ⚡ Fun fact: Grapes light on fire in the microwave.  
   
 
-<img src="https://media.discordapp.net/attachments/776379005603414036/902600525030260736/RDT_20211026_1251486077555446502367955.gif" align="left" height="100%" width="" />  
+![TW](https://media.discordapp.net/attachments/776379005603414036/902600525030260736/RDT_20211026_1251486077555446502367955.gif)  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
-</td></tr></table>  
+
+
+
+
 
 <br/>  
 
