@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I'm studying in PGEE, Burgas 15y. New in programming and I like learning new stuff.  
+I'm studying in PGEE, Burgas 17y. New in programming and I like learning new stuff.  
   
 
 <br/>  
