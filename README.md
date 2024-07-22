@@ -1,79 +1,44 @@
-## Hey 👋, I'm Todor!  
-  
-<div align="center" dir="auto">
+![Profile views counter](https://komarev.com/ghpvc/?username=TodorHristov06&&style=flat-square)  
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Todor+Hristov!;" />
+</h1>
+
+<h3 align="center">A student from Bulgaria </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **developing my skills**
+ 
+ 🌱 I’m currently learning **C#, React, JS**
+
+⚡ Fun fact **Grapes light on fire in the microwave**
+
+ </div>
+
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,visualstudio,cs,dotnet,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql,sqlite,arduino" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=TodorHristov06&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=todorhristov06&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=todorhristov06&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
-
-### Glad to see you here!  
-I'm studying in PGEE, Burgas 17y. New in programming and I like learning new stuff.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-
-
-- 🔭 I’m currently working on learning new languages and Loading....  
-  
-
-- 🌱I’m currently learning C#, React Native and Flutter  
-  
-
-- ❓ Ask me about anything.😀  
-  
-
-- ⚡ Fun fact: Grapes light on fire in the microwave.  
-  
-
-<img src="https://media.discordapp.net/attachments/776379005603414036/902600525030260736/RDT_20211026_1251486077555446502367955.gif" align="left" height="650" width="" />  
-
-
-
-
-
-
-
-
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TodorHristov06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=TodorHristov06&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/><br/>
