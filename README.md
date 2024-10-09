@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **developing my skills**
  
- 🌱 I’m currently learning **C#, React, JS**
+ 🌱 I’m currently learning **C#, React, Data Science**
 
 ⚡ Fun fact **Grapes light on fire in the microwave**
 
